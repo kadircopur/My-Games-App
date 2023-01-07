@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyGames</string>
+    <string name="title">Grand Theft Auto V</string>
+    <string name="metacritic">metacritic:</string>
+    <string name="some_id">96</string>
+    <string name="number">Action, shooter</string>
+    <string name="maintitle">Games</string>
+    <string name="favourite_title">Favourites</string>
+    <string name="blank_game">No game has been searched</string>
+    <string name="search_bar_text">Search for the games</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="description_text">
+        Rockstar Games went bigger, since their previous installment of the series.
+        You get the complicated and realistic world-building from Liberty City of GTA4 in the setting of lively and diverse Los Santos,
+        from an old fan favorite GTA San Andreas. 561 different vehicles (including every transport you can operate)....
+    </string>
+    <string name="button">click button</string>
+    <string name="dialogTitle">Delete Game</string>
+    <string name="dialogMessage">Do you want to delete game from favourites ?</string>
+
+
+</resources>
